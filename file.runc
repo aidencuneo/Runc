@@ -1,0 +1,9 @@
+# builtin functions
+rep s a b = s.replace(a, b);
+
+f = 0;
+f x = x;
+f x y z = x + y + z;
+f x y = x + y;
+
+main = print something;

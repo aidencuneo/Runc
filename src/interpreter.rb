@@ -1,0 +1,3 @@
+def interpret code
+
+end
